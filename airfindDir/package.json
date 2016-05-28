@@ -1,0 +1,16 @@
+{
+  "author": "Ravi Teja Kadiyam",
+  "name": "airfind",
+  "description": "Airport search app",
+  "version": "1.0.0",
+  "homepage": "app.js",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
